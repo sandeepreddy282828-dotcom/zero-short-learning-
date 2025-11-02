@@ -1,0 +1,213 @@
+Car
+flower
+child
+children
+boy
+girl
+computer
+monitor
+keyboard
+television
+hourglass
+TV
+screen
+game_console
+computer
+mouse
+classroom
+education
+student
+kid
+chair
+table
+light
+movie theater
+cinema
+audience
+stage
+lecture hall
+tree
+road
+garden
+plants
+bushes
+grassy area
+license plate
+dark green
+ground
+brown
+grey
+foliage
+bumpers
+dimly light
+hair
+sun
+moon
+camera
+puppy
+animal
+cat
+dog
+bench
+beach
+forest
+fruits
+hat
+blue
+leaf
+jacket
+rainbow
+buildings
+traffic lights
+Vehicles
+Laptop
+Smartphone
+Refrigerator
+Washing Machine
+Air Conditioner
+Television
+Microwave Oven
+Blender
+Toaster
+Vacuum Cleaner
+Sofa
+Dining Table
+Bed
+Mattress
+Pillow
+Blanket
+Wardrobe
+Bookshelf
+Chair
+Desk
+Pen
+Notebook
+Backpack
+Water Bottle
+Umbrella
+Shoes
+Shirt
+Jeans
+Jacket
+Watch
+Sunglasses
+Helmet
+Bicycle
+Motorcycle
+Tires
+Groceries
+Rice
+Wheat Flour
+Sugar
+Salt
+Cooking Oil
+Spices
+Vegetables
+Fruits
+Milk
+Fan
+Table Lamp
+Extension Cord
+Power Bank
+Bluetooth Speaker
+Headphones
+Earbuds
+Smartwatch
+Fitness Tracker
+DSLR Camera
+Tripod
+Memory Card
+External Hard Drive
+Flash Drive
+Router
+Modem
+Printer
+Scanner
+Paper Ream
+Stapler
+Paper Clips
+Tape Dispenser
+Whiteboard
+Marker Pens
+Highlighter
+Eraser
+Ruler
+Calculator
+Glue Stick
+Scissors
+Cutter
+File Folder
+Envelope
+Stamp Pad
+Laptop Bag
+Mouse
+Keyboard
+Monitor
+CPU
+Graphics Card
+Motherboard
+RAM
+SSD
+Cooling Fan
+Power Supply Unit
+Screwdriver
+Hammer
+Wrench
+Pliers
+Drill Machine
+Nails
+Screws
+Bolts
+Measuring Tape
+Level Tool
+Paint Brush
+Roller
+Paint Bucket
+Sandpaper
+Ladder
+Safety Helmet
+Work Gloves
+Safety Goggles
+Tool Box
+First Aid Kit
+Fire Extinguisher
+Smoke Detector
+Alarm Clock
+Wall Clock
+Calendar
+Mirror
+Curtain
+Curtain Rod
+Window Blinds
+Carpet
+Rug
+Floor Mat
+Doormat
+Shoe Rack
+Coat Hanger
+Laundry Basket
+Iron
+Detergent
+Fabric Softener
+Dish Soap
+Sponge
+Scrub Brush
+Mop
+Bucket
+Broom
+Dustpan
+Trash Can
+Recycling Bin
+Air Freshener
+Insect Repellent
+Mosquito Net
+Water Purifier
+pink
+white
+yellow
+grey
+black
+clouds
+river
+mountain
+brids
